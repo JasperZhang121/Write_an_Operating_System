@@ -22,7 +22,10 @@
 
 ----
 
-Still *WORKING* on it, the progress will be recorded in vaults: 
+*Plan*:
+Weekly update + finish before **20th April 2023**   
 
+*The progress will be recorded in vaults*: 
 <a href="https://github.com/JasperZhang121/Vaults/tree/main/Operating%20System/Write%20an%20OS">
 Log of implement details. </a>
+
