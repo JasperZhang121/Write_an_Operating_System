@@ -34,6 +34,6 @@
 *Plan*: To be determined 
 
 *The progress will be recorded in vaults*: 
-<a href="https://github.com/JasperZhang121/Vaults/tree/main/Operating%20System/Write%20an%20OS">
+<a href="https://github.com/JasperZhang121/Vaults/tree/main/Computer%20Operating%20System/Write%20an%20OS">
 Log of implement details. </a>
 
