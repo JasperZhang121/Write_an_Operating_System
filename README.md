@@ -22,8 +22,7 @@
 
 ----
 
-*Plan*:
-finish before **20th April 2023**   
+*Plan*: As a result of my ongoing studies, I may not have ample time to devote to it at present, but I assure you that I will complete everything by June 30th after my final exams for this semester.  
 
 *The progress will be recorded in vaults*: 
 <a href="https://github.com/JasperZhang121/Vaults/tree/main/Operating%20System/Write%20an%20OS">
