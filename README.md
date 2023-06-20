@@ -1,7 +1,8 @@
 # Write_an_Operating_System
 
-**Notice:** As a result of my ongoing studies, I may not have ample time to devote to it at present, but I assure you that I will complete everything by June 30th after my final exams for this semester. Thank you for stopping by. 
+**Notice:** ~As a result of my ongoing studies, I may not have ample time to devote to it at present, but I assure you that I will complete everything by June 30th after my final exams for this semester. Thank you for stopping by.~
 
+Resume from 21/06/2023, and expected to be finished by 30/06/2023
 
 ---
 
